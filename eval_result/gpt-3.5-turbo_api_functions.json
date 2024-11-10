@@ -1,0 +1,3163 @@
+[
+    {
+        "answer_id": "14168238",
+        "functions": [
+            {
+                "function_name": "createDialog",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "10768198",
+        "functions": [
+            {
+                "function_name": "create2DStringArrayList",
+                "parameters": [],
+                "return_type": "List<List<String>>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5223857",
+        "functions": [
+            {
+                "function_name": "countOccurrences",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    },
+                    {
+                        "name": "sequence",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "10922519",
+        "functions": []
+    },
+    {
+        "answer_id": "3035893",
+        "functions": [
+            {
+                "function_name": "createStatusBar",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5163852",
+        "functions": [
+            {
+                "function_name": "getLastCharacter",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "3799176",
+        "functions": [
+            {
+                "function_name": "iterateThroughString",
+                "parameters": [
+                    {
+                        "name": "exampleString",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1509487",
+        "functions": [
+            {
+                "function_name": "getFirstEntryValue",
+                "parameters": [
+                    {
+                        "name": "TreeMap<String",
+                        "type": ""
+                    },
+                    {
+                        "name": "myMap",
+                        "type": "String>"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2899335",
+        "functions": [
+            {
+                "function_name": "getNextAndPreviousLetters",
+                "parameters": [
+                    {
+                        "name": "letter",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "473309",
+        "functions": [
+            {
+                "function_name": "leftPadWithZeros",
+                "parameters": [
+                    {
+                        "name": "number",
+                        "type": "int"
+                    },
+                    {
+                        "name": "length",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2297629",
+        "functions": [
+            {
+                "function_name": "readInputWithMultipleLines",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2490486",
+        "functions": [
+            {
+                "function_name": "useSetMethods",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "11009861",
+        "functions": [
+            {
+                "function_name": "getListOfIntegers",
+                "parameters": [
+                    {
+                        "name": "number",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "List<Integer>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "25166264",
+        "functions": [
+            {
+                "function_name": "addDelayToWhileLoop",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2961537",
+        "functions": [
+            {
+                "function_name": "getSecondWord",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "24182811",
+        "functions": [
+            {
+                "function_name": "convertMillisToDate",
+                "parameters": [
+                    {
+                        "name": "timeStamp",
+                        "type": "long"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4662265",
+        "functions": [
+            {
+                "function_name": "extractSubstringUsingRegex",
+                "parameters": [
+                    {
+                        "name": "text",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "17213258",
+        "functions": [
+            {
+                "function_name": "isNowTimeBetweenTwoHours",
+                "parameters": [],
+                "return_type": "boolean",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "16247861",
+        "functions": [
+            {
+                "function_name": "readAndSaveFileContentToList",
+                "parameters": [
+                    {
+                        "name": "fileName",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "22195142",
+        "functions": [
+            {
+                "function_name": "getTomorrowDate",
+                "parameters": [],
+                "return_type": "GregorianCalendar",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "12030",
+        "functions": [
+            {
+                "function_name": "getGatewayIP",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1711820",
+        "functions": [
+            {
+                "function_name": "createCalendarObject",
+                "parameters": [
+                    {
+                        "name": "date",
+                        "type": "Date"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "23307365",
+        "functions": [
+            {
+                "function_name": "addTwoWeeksToDate",
+                "parameters": [
+                    {
+                        "name": "dateOfOrder",
+                        "type": "Date"
+                    }
+                ],
+                "return_type": "Date",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5387398",
+        "functions": [
+            {
+                "function_name": "convertMinutesToHoursAndMinutes",
+                "parameters": [
+                    {
+                        "name": "minutes",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5237354",
+        "functions": [
+            {
+                "function_name": "testListForEmptyOrNullness",
+                "parameters": [
+                    {
+                        "name": "list",
+                        "type": "List<String>"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "13370154",
+        "functions": [
+            {
+                "function_name": "readFileCharByChar",
+                "parameters": [
+                    {
+                        "name": "filePath",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "9515546",
+        "functions": [
+            {
+                "function_name": "getStringAfterLastComma",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "18708275",
+        "functions": [
+            {
+                "function_name": "executeBashCommandWithSudo",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "19452417",
+        "functions": [
+            {
+                "function_name": "convertToRegex",
+                "parameters": [
+                    {
+                        "name": "value",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5290628",
+        "functions": [
+            {
+                "function_name": "getFirstFourDigits",
+                "parameters": [
+                    {
+                        "name": "str",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "26019206",
+        "functions": [
+            {
+                "function_name": "getFileNameFromPath",
+                "parameters": [
+                    {
+                        "name": "filePath",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "16764615",
+        "functions": [
+            {
+                "function_name": "checkStringStartAndEndsWithDoubleQuotes",
+                "parameters": [
+                    {
+                        "name": "str",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "6638330",
+        "functions": [
+            {
+                "function_name": "breakNestedLoops",
+                "parameters": [
+                    {
+                        "name": "goal",
+                        "type": "int"
+                    },
+                    {
+                        "name": "points",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "47970130",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "env",
+                        "type": "String..."
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "13433126",
+        "functions": [
+            {
+                "function_name": "countCharacterOccurrences",
+                "parameters": [
+                    {
+                        "name": "sentence",
+                        "type": "String"
+                    },
+                    {
+                        "name": "character",
+                        "type": "char"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "19751994",
+        "functions": [
+            {
+                "function_name": "extractTextBetweenSquareBrackets",
+                "parameters": [
+                    {
+                        "name": "line",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "List<String>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "36110491",
+        "functions": [
+            {
+                "function_name": "getSpecificDataElement",
+                "parameters": [
+                    {
+                        "name": "filePath",
+                        "type": "String"
+                    },
+                    {
+                        "name": "nameToSearch",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "17691245",
+        "functions": [
+            {
+                "function_name": "readEmployeeDetails",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "9464552",
+        "functions": [
+            {
+                "function_name": "extractPhoneNumber",
+                "parameters": [
+                    {
+                        "name": "inputString",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "18607545",
+        "functions": [
+            {
+                "function_name": "splitAndReadFile",
+                "parameters": [
+                    {
+                        "name": "fileName",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "19238077",
+        "functions": [
+            {
+                "function_name": "convertCharArrayToString",
+                "parameters": [
+                    {
+                        "name": "c",
+                        "type": "char[]"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "7427797",
+        "functions": [
+            {
+                "function_name": "useSortedMap",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "for",
+                "parameters": [
+                    {
+                        "name": "Map.Entry<Integer",
+                        "type": ""
+                    },
+                    {
+                        "name": "map.entrySet()",
+                        "type": "String> entry :"
+                    }
+                ],
+                "return_type": "them",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "16516670",
+        "functions": [
+            {
+                "function_name": "storeHashMapInList",
+                "parameters": [],
+                "return_type": "List<Map<String, List<String>>>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "18119273",
+        "functions": [
+            {
+                "function_name": "checkIfInputIsNotInt",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "29001780",
+        "functions": [
+            {
+                "function_name": "getDescendingOrder",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "isNumber",
+                "parameters": [
+                    {
+                        "name": "s",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            },
+            {
+                "function_name": "swap",
+                "parameters": [
+                    {
+                        "name": "arr",
+                        "type": "final String[]"
+                    },
+                    {
+                        "name": "i",
+                        "type": "int"
+                    },
+                    {
+                        "name": "j",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2605884",
+        "functions": [
+            {
+                "function_name": "openNamedPipe",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "919420",
+        "functions": [
+            {
+                "function_name": "getDifferenceBetweenLists",
+                "parameters": [
+                    {
+                        "name": "listA",
+                        "type": "ArrayList<String>"
+                    },
+                    {
+                        "name": "listB",
+                        "type": "ArrayList<String>"
+                    }
+                ],
+                "return_type": "ArrayList<String>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "15196438",
+        "functions": []
+    },
+    {
+        "answer_id": "26904043",
+        "functions": [
+            {
+                "function_name": "compareHashMaps",
+                "parameters": [
+                    {
+                        "name": "Map<String",
+                        "type": ""
+                    },
+                    {
+                        "name": "hashMap1",
+                        "type": "String>"
+                    },
+                    {
+                        "name": "Map<String",
+                        "type": ""
+                    },
+                    {
+                        "name": "hashMap2",
+                        "type": "String>"
+                    }
+                ],
+                "return_type": "Map<String, String>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2361108",
+        "functions": [
+            {
+                "function_name": "compileAndRunJavaProgram",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "40293024",
+        "functions": [
+            {
+                "function_name": "exportDatastoreToCsv",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1693326",
+        "functions": [
+            {
+                "function_name": "createButtonWithMenu",
+                "parameters": [
+                    {
+                        "name": "frame",
+                        "type": "JFrame"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "actionPerformed",
+                "parameters": [
+                    {
+                        "name": "e",
+                        "type": "ActionEvent"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "actionPerformed",
+                "parameters": [
+                    {
+                        "name": "e",
+                        "type": "ActionEvent"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "mousePressed",
+                "parameters": [
+                    {
+                        "name": "e",
+                        "type": "MouseEvent"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "8192887",
+        "functions": [
+            {
+                "function_name": "searchStringInArrayList",
+                "parameters": [
+                    {
+                        "name": "list",
+                        "type": "List<String>"
+                    },
+                    {
+                        "name": "searchString",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "List<String>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "16475547",
+        "functions": []
+    },
+    {
+        "answer_id": "931663",
+        "functions": [
+            {
+                "function_name": "launchExternalProgram",
+                "parameters": [
+                    {
+                        "name": "cmd",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2367418",
+        "functions": []
+    },
+    {
+        "answer_id": "25834021",
+        "functions": [
+            {
+                "function_name": "preventDuplicates",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "for",
+                "parameters": [
+                    {
+                        "name": "i++",
+                        "type": "int i = 0; i < studentNumbers;"
+                    }
+                ],
+                "return_type": "else",
+                "description": ""
+            },
+            {
+                "function_name": "if",
+                "parameters": [
+                    {
+                        "name": "names.contains(studentName)",
+                        "type": ""
+                    }
+                ],
+                "return_type": "like",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2244077",
+        "functions": [
+            {
+                "function_name": "executeCommand",
+                "parameters": [
+                    {
+                        "name": "cmd",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "9276720",
+        "functions": [
+            {
+                "function_name": "splitByNumber",
+                "parameters": [
+                    {
+                        "name": "text",
+                        "type": "String"
+                    },
+                    {
+                        "name": "size",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "List<String>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "13021152",
+        "functions": [
+            {
+                "function_name": "findNthFibonacciNumber",
+                "parameters": [
+                    {
+                        "name": "n",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "6341414",
+        "functions": [
+            {
+                "function_name": "isRegularExpression",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "745451",
+        "functions": [
+            {
+                "function_name": "getPreviousDate",
+                "parameters": [
+                    {
+                        "name": "currentDate",
+                        "type": "Date"
+                    }
+                ],
+                "return_type": "Date",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "38876591",
+        "functions": [
+            {
+                "function_name": "addValueToList",
+                "parameters": [
+                    {
+                        "name": "List<Map<String",
+                        "type": ""
+                    },
+                    {
+                        "name": "list",
+                        "type": "Object>>"
+                    },
+                    {
+                        "name": "key",
+                        "type": "String"
+                    },
+                    {
+                        "name": "value",
+                        "type": "Object"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "8184129",
+        "functions": [
+            {
+                "function_name": "getImageSize",
+                "parameters": [
+                    {
+                        "name": "imageUrl",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1988273",
+        "functions": [
+            {
+                "function_name": "openWebPageInFrame",
+                "parameters": [
+                    {
+                        "name": "url",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "7577573",
+        "functions": [
+            {
+                "function_name": "replaceWordInString",
+                "parameters": [
+                    {
+                        "name": "message",
+                        "type": "String"
+                    },
+                    {
+                        "name": "wordToReplace",
+                        "type": "String"
+                    },
+                    {
+                        "name": "replacement",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "8890335",
+        "functions": []
+    },
+    {
+        "answer_id": "2529114",
+        "functions": [
+            {
+                "function_name": "sortStringsWithNumbers",
+                "parameters": [
+                    {
+                        "name": "string",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "compare",
+                "parameters": [
+                    {
+                        "name": "s1",
+                        "type": "String"
+                    },
+                    {
+                        "name": "s2",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "7063917",
+        "functions": []
+    },
+    {
+        "answer_id": "12772008",
+        "functions": [
+            {
+                "function_name": "printFibonacciSequence",
+                "parameters": [
+                    {
+                        "name": "n",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "36513173",
+        "functions": [
+            {
+                "function_name": "formatHtmlPage",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "17759946",
+        "functions": [
+            {
+                "function_name": "checkObjectCasting",
+                "parameters": [
+                    {
+                        "name": "obj",
+                        "type": "Object"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "18471715",
+        "functions": [
+            {
+                "function_name": "addEscapeCharacters",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5165471",
+        "functions": [
+            {
+                "function_name": "setTimeToDate",
+                "parameters": [],
+                "return_type": "Date",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "19336268",
+        "functions": [
+            {
+                "function_name": "createVariablesDynamically",
+                "parameters": [],
+                "return_type": "Map<String, String>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "47210710",
+        "functions": [
+            {
+                "function_name": "loopNumberCheck",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "if",
+                "parameters": [
+                    {
+                        "name": "input.matches(\"^-?([0-9]+\\\\.[0-9]+|[0-9]+)$\")",
+                        "type": ""
+                    }
+                ],
+                "return_type": "else",
+                "description": ""
+            },
+            {
+                "function_name": "if",
+                "parameters": [
+                    {
+                        "name": "input.equals(\"\")",
+                        "type": ""
+                    }
+                ],
+                "return_type": "else",
+                "description": ""
+            },
+            {
+                "function_name": "display",
+                "parameters": [
+                    {
+                        "name": "d",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            },
+            {
+                "function_name": "display",
+                "parameters": [
+                    {
+                        "name": "d",
+                        "type": "double"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "10133538",
+        "functions": [
+            {
+                "function_name": "clearTextFieldOnClick",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "mouseClicked",
+                "parameters": [
+                    {
+                        "name": "e",
+                        "type": "MouseEvent"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "run",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1073933",
+        "functions": [
+            {
+                "function_name": "convertIntArrayToList",
+                "parameters": [
+                    {
+                        "name": "array",
+                        "type": "int[]"
+                    }
+                ],
+                "return_type": "List<Integer>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "6579976",
+        "functions": [
+            {
+                "function_name": "getRegexPattern",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "6712708",
+        "functions": [
+            {
+                "function_name": "countCharacterFrequency",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "Map<Character, Integer>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1473198",
+        "functions": [
+            {
+                "function_name": "getDataBetweenQuotes",
+                "parameters": [
+                    {
+                        "name": "line",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "12812355",
+        "functions": []
+    },
+    {
+        "answer_id": "1410961",
+        "functions": [
+            {
+                "function_name": "checkExitBehavior",
+                "parameters": [
+                    {
+                        "name": "argv",
+                        "type": "String..."
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "checkPermission",
+                "parameters": [
+                    {
+                        "name": "perm",
+                        "type": "Permission"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "checkExit",
+                "parameters": [
+                    {
+                        "name": "status",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4141352",
+        "functions": [
+            {
+                "function_name": "convertByteArrayToHumanReadable",
+                "parameters": [
+                    {
+                        "name": "byteArray",
+                        "type": "byte[]"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "12899896",
+        "functions": [
+            {
+                "function_name": "addOneMonthAndGetSameDay",
+                "parameters": [
+                    {
+                        "name": "date",
+                        "type": "Date"
+                    }
+                ],
+                "return_type": "Date",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "20938772",
+        "functions": [
+            {
+                "function_name": "doubleChar",
+                "parameters": [
+                    {
+                        "name": "str",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "790224",
+        "functions": [
+            {
+                "function_name": "showCustomDialog",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "19537440",
+        "functions": [
+            {
+                "function_name": "connectToDatabase",
+                "parameters": [
+                    {
+                        "name": "tnsAdmin",
+                        "type": "String"
+                    },
+                    {
+                        "name": "entryFromTnsnames",
+                        "type": "String"
+                    },
+                    {
+                        "name": "username",
+                        "type": "String"
+                    },
+                    {
+                        "name": "password",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1657925",
+        "functions": [
+            {
+                "function_name": "throwDivideByZeroException",
+                "parameters": [
+                    {
+                        "name": "numerator",
+                        "type": "int"
+                    },
+                    {
+                        "name": "divisor",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "10095840",
+        "functions": [
+            {
+                "function_name": "resizeImageAndRemoveBackground",
+                "parameters": [
+                    {
+                        "name": "imagePath",
+                        "type": "String"
+                    },
+                    {
+                        "name": "outputDirectory",
+                        "type": "String"
+                    },
+                    {
+                        "name": "outputFileName",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "19066796",
+        "functions": [
+            {
+                "function_name": "findVowelsInString",
+                "parameters": [
+                    {
+                        "name": "str",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "457272",
+        "functions": [
+            {
+                "function_name": "clearSoftReferences",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "3028429",
+        "functions": [
+            {
+                "function_name": "convertBigIntegerToString",
+                "parameters": [
+                    {
+                        "name": "bigInteger",
+                        "type": "BigInteger"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "26136178",
+        "functions": []
+    },
+    {
+        "answer_id": "7506812",
+        "functions": [
+            {
+                "function_name": "adjustTrailingWhitespace",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    },
+                    {
+                        "name": "length",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5055036",
+        "functions": [
+            {
+                "function_name": "replaceCaseInsensitive",
+                "parameters": [
+                    {
+                        "name": "target",
+                        "type": "String"
+                    },
+                    {
+                        "name": "search",
+                        "type": "String"
+                    },
+                    {
+                        "name": "replacement",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "12381788",
+        "functions": [
+            {
+                "function_name": "enableHttpClientDebugging",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "8871710",
+        "functions": []
+    },
+    {
+        "answer_id": "7438009",
+        "functions": [
+            {
+                "function_name": "convertBinaryToDecimal",
+                "parameters": [
+                    {
+                        "name": "binary",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "3806154",
+        "functions": []
+    },
+    {
+        "answer_id": "3871163",
+        "functions": []
+    },
+    {
+        "answer_id": "4083850",
+        "functions": [
+            {
+                "function_name": "getMinimumHeightTextArea",
+                "parameters": [
+                    {
+                        "name": "width",
+                        "type": "int"
+                    },
+                    {
+                        "name": "text",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "269538",
+        "functions": [
+            {
+                "function_name": "getFirstDayOfWeek",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1612912",
+        "functions": [
+            {
+                "function_name": "removeCarriageReturn",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "8263301",
+        "functions": [
+            {
+                "function_name": "getSecondsSinceEpoch",
+                "parameters": [
+                    {
+                        "name": "year",
+                        "type": "int"
+                    },
+                    {
+                        "name": "month",
+                        "type": "int"
+                    },
+                    {
+                        "name": "date",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "long",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2541618",
+        "functions": [
+            {
+                "function_name": "handleKillSignal",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "run",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "36568643",
+        "functions": [
+            {
+                "function_name": "createNumberSequence",
+                "parameters": [
+                    {
+                        "name": "length",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "6563306",
+        "functions": [
+            {
+                "function_name": "initializeBigInteger",
+                "parameters": [
+                    {
+                        "name": "t2",
+                        "type": "BigInteger[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "6596139",
+        "functions": [
+            {
+                "function_name": "checkAlphanumericCharacters",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4065546",
+        "functions": [
+            {
+                "function_name": "getCallerFunctionName",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "35618510",
+        "functions": [
+            {
+                "function_name": "printShoppingBag",
+                "parameters": [
+                    {
+                        "name": "sb",
+                        "type": "ShoppingBag"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "9156358",
+        "functions": [
+            {
+                "function_name": "getLocalTime",
+                "parameters": [
+                    {
+                        "name": "timeZone",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "35499670",
+        "functions": [
+            {
+                "function_name": "compareNames",
+                "parameters": [
+                    {
+                        "name": "name1",
+                        "type": "Name"
+                    },
+                    {
+                        "name": "name2",
+                        "type": "Name"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            },
+            {
+                "function_name": "if",
+                "parameters": [
+                    {
+                        "name": "0",
+                        "type": "name1.compareTo(name2) >"
+                    }
+                ],
+                "return_type": "else",
+                "description": ""
+            },
+            {
+                "function_name": "if",
+                "parameters": [
+                    {
+                        "name": "0",
+                        "type": "name1.compareTo(name2) =="
+                    }
+                ],
+                "return_type": "else",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "40910835",
+        "functions": [
+            {
+                "function_name": "removeCharactersBefore",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "33261057",
+        "functions": [
+            {
+                "function_name": "replaceDoubleQuotes",
+                "parameters": [
+                    {
+                        "name": "text",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "16817458",
+        "functions": [
+            {
+                "function_name": "iterateOverRegexExpression",
+                "parameters": [
+                    {
+                        "name": "line",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "7478238",
+        "functions": []
+    },
+    {
+        "answer_id": "6646535",
+        "functions": [
+            {
+                "function_name": "getTimeTakenToRunProgram",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "15150223",
+        "functions": [
+            {
+                "function_name": "checkStringForIncorrectCharacters",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2071743",
+        "functions": [
+            {
+                "function_name": "executeSqlScriptFile",
+                "parameters": [
+                    {
+                        "name": "username",
+                        "type": "String"
+                    },
+                    {
+                        "name": "dbname",
+                        "type": "String"
+                    },
+                    {
+                        "name": "serverhost",
+                        "type": "String"
+                    },
+                    {
+                        "name": "scriptfile",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "3388104",
+        "functions": [
+            {
+                "function_name": "createGUID",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "36652931",
+        "functions": [
+            {
+                "function_name": "fixDisabledButtonColor",
+                "parameters": [
+                    {
+                        "name": "button",
+                        "type": "JButton"
+                    },
+                    {
+                        "name": "icon",
+                        "type": "ImageIcon"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "50277971",
+        "functions": [
+            {
+                "function_name": "getDisplayDate",
+                "parameters": [
+                    {
+                        "name": "loc",
+                        "type": "Locale"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2707431",
+        "functions": [
+            {
+                "function_name": "createDynamicTwoDimensionalArray",
+                "parameters": [
+                    {
+                        "name": "columns",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "List<int[]>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2800839",
+        "functions": [
+            {
+                "function_name": "removeLeadingZeros",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4385419",
+        "functions": [
+            {
+                "function_name": "connectToMysql",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5287521",
+        "functions": [
+            {
+                "function_name": "putImageOnPanel",
+                "parameters": [
+                    {
+                        "name": "panel",
+                        "type": "JPanel"
+                    },
+                    {
+                        "name": "imagePath",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5652385",
+        "functions": []
+    },
+    {
+        "answer_id": "31807319",
+        "functions": [
+            {
+                "function_name": "executeSymlinkCommand",
+                "parameters": [
+                    {
+                        "name": "sourceFilename",
+                        "type": "String"
+                    },
+                    {
+                        "name": "destinationFilename",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "19279560",
+        "functions": [
+            {
+                "function_name": "useComputeIfAbsent",
+                "parameters": [
+                    {
+                        "name": "Map<String",
+                        "type": ""
+                    },
+                    {
+                        "name": "map",
+                        "type": "Boolean>"
+                    },
+                    {
+                        "name": "key",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "f",
+                "parameters": [
+                    {
+                        "name": "s",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "16891978",
+        "functions": [
+            {
+                "function_name": "readPdfAndWriteToOutputStream",
+                "parameters": [
+                    {
+                        "name": "filePath",
+                        "type": "String"
+                    },
+                    {
+                        "name": "outputStream",
+                        "type": "OutputStream"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2318759",
+        "functions": [
+            {
+                "function_name": "isProcessRunning",
+                "parameters": [
+                    {
+                        "name": "processName",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "28333829",
+        "functions": [
+            {
+                "function_name": "printFormattedDate",
+                "parameters": [
+                    {
+                        "name": "inputDate",
+                        "type": "String"
+                    },
+                    {
+                        "name": "timezone",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "9962492",
+        "functions": [
+            {
+                "function_name": "getNumberPlaceValue",
+                "parameters": [
+                    {
+                        "name": "values",
+                        "type": "int[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "425466",
+        "functions": [
+            {
+                "function_name": "checkForNullElements",
+                "parameters": [
+                    {
+                        "name": "someArray",
+                        "type": "Object[][]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "27287021",
+        "functions": []
+    },
+    {
+        "answer_id": "27372799",
+        "functions": [
+            {
+                "function_name": "parseNegativeNumber",
+                "parameters": [
+                    {
+                        "name": "message",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "9464309",
+        "functions": [
+            {
+                "function_name": "findExactWord",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    },
+                    {
+                        "name": "word",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4499595",
+        "functions": [
+            {
+                "function_name": "saveDataToFile",
+                "parameters": [
+                    {
+                        "name": "data",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5756784",
+        "functions": [
+            {
+                "function_name": "replaceBackslash",
+                "parameters": [
+                    {
+                        "name": "text",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "9334357",
+        "functions": [
+            {
+                "function_name": "listAvailableCipherAlgorithms",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2109186",
+        "functions": [
+            {
+                "function_name": "getFirstDayOfWeek",
+                "parameters": [
+                    {
+                        "name": "week",
+                        "type": "int"
+                    },
+                    {
+                        "name": "year",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "Date",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "6681899",
+        "functions": []
+    },
+    {
+        "answer_id": "2538803",
+        "functions": [
+            {
+                "function_name": "printFloatWithTwoDecimalPlaces",
+                "parameters": [
+                    {
+                        "name": "value",
+                        "type": "float"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "8963444",
+        "functions": []
+    },
+    {
+        "answer_id": "49014692",
+        "functions": [
+            {
+                "function_name": "printStackTraceAtBreakpoint",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "15694375",
+        "functions": [
+            {
+                "function_name": "setLayoutForPanels",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4436173",
+        "functions": [
+            {
+                "function_name": "connectToLocalHost",
+                "parameters": [],
+                "return_type": "Connection",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "12460596",
+        "functions": [
+            {
+                "function_name": "roundDoubleValue",
+                "parameters": [
+                    {
+                        "name": "doubleVal",
+                        "type": "String"
+                    },
+                    {
+                        "name": "doubleVal1",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "24753336",
+        "functions": []
+    },
+    {
+        "answer_id": "8646467",
+        "functions": []
+    },
+    {
+        "answer_id": "18070669",
+        "functions": [
+            {
+                "function_name": "writeToFile",
+                "parameters": [
+                    {
+                        "name": "text",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "18871400",
+        "functions": [
+            {
+                "function_name": "showImageInFrame",
+                "parameters": [
+                    {
+                        "name": "imagePath",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "18828505",
+        "functions": [
+            {
+                "function_name": "getMinMaxValue",
+                "parameters": [
+                    {
+                        "name": "convertedValues",
+                        "type": "int[]"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "15518922",
+        "functions": [
+            {
+                "function_name": "validateURL",
+                "parameters": [
+                    {
+                        "name": "url",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "7320393",
+        "functions": [
+            {
+                "function_name": "testForBlankLine",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5153956",
+        "functions": [
+            {
+                "function_name": "convertHexStringToLong",
+                "parameters": [
+                    {
+                        "name": "hexString",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "17939617",
+        "functions": [
+            {
+                "function_name": "getExecutionPath",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "42159770",
+        "functions": [
+            {
+                "function_name": "getPhotoDimensions",
+                "parameters": [
+                    {
+                        "name": "filePath",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2228469",
+        "functions": [
+            {
+                "function_name": "getPreferredSizeOfPanel",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4157429",
+        "functions": [
+            {
+                "function_name": "executeCmdCommands",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "10990974",
+        "functions": [
+            {
+                "function_name": "wrapString",
+                "parameters": [
+                    {
+                        "name": "str",
+                        "type": "String"
+                    },
+                    {
+                        "name": "length",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "12783806",
+        "functions": [
+            {
+                "function_name": "getLastSundayBeforeCurrentDate",
+                "parameters": [],
+                "return_type": "int",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "8182674",
+        "functions": [
+            {
+                "function_name": "createScrollableJTextPane",
+                "parameters": [],
+                "return_type": "JScrollPane",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4078601",
+        "functions": [
+            {
+                "function_name": "modifyMapValues",
+                "parameters": [
+                    {
+                        "name": "Map<String",
+                        "type": ""
+                    },
+                    {
+                        "name": "map",
+                        "type": "String>"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1655450",
+        "functions": [
+            {
+                "function_name": "getFutureTime",
+                "parameters": [],
+                "return_type": "Date",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2623292",
+        "functions": []
+    },
+    {
+        "answer_id": "17865740",
+        "functions": [
+            {
+                "function_name": "drawImageToPanel",
+                "parameters": [
+                    {
+                        "name": "imagePath",
+                        "type": "String"
+                    },
+                    {
+                        "name": "width",
+                        "type": "int"
+                    },
+                    {
+                        "name": "height",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "JPanel",
+                "parameters": [],
+                "return_type": "new",
+                "description": ""
+            },
+            {
+                "function_name": "paintComponent",
+                "parameters": [
+                    {
+                        "name": "g",
+                        "type": "Graphics"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "buildFrame",
+                "parameters": [],
+                "return_type": "JFrame",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5950446",
+        "functions": [
+            {
+                "function_name": "incrementTimeByOneHour",
+                "parameters": [
+                    {
+                        "name": "previousTime",
+                        "type": "Date"
+                    },
+                    {
+                        "name": "currentTime",
+                        "type": "Date"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "11243868",
+        "functions": [
+            {
+                "function_name": "populate2DArray",
+                "parameters": [
+                    {
+                        "name": "n",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "203992",
+        "functions": [
+            {
+                "function_name": "removeRepeatedElements",
+                "parameters": [
+                    {
+                        "name": "list",
+                        "type": "ArrayList<String>"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "16361505",
+        "functions": [
+            {
+                "function_name": "getOpenFileCount",
+                "parameters": [],
+                "return_type": "long",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "7190525",
+        "functions": [
+            {
+                "function_name": "readStringBuilderLineByLine",
+                "parameters": [
+                    {
+                        "name": "sb",
+                        "type": "StringBuilder"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "25321015",
+        "functions": []
+    },
+    {
+        "answer_id": "4916023",
+        "functions": [
+            {
+                "function_name": "matchPatternInText",
+                "parameters": [
+                    {
+                        "name": "text",
+                        "type": "String"
+                    },
+                    {
+                        "name": "pattern",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "19534456",
+        "functions": [
+            {
+                "function_name": "getRowCount",
+                "parameters": [
+                    {
+                        "name": "url",
+                        "type": "String"
+                    },
+                    {
+                        "name": "user",
+                        "type": "String"
+                    },
+                    {
+                        "name": "password",
+                        "type": "String"
+                    },
+                    {
+                        "name": "query",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "10039728",
+        "functions": []
+    },
+    {
+        "answer_id": "7226186",
+        "functions": [
+            {
+                "function_name": "getDayOfMonth",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "460590",
+        "functions": [
+            {
+                "function_name": "getJnlpServerAddress",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "15977262",
+        "functions": [
+            {
+                "function_name": "appendByteToString",
+                "parameters": [
+                    {
+                        "name": "originalString",
+                        "type": "String"
+                    },
+                    {
+                        "name": "byteToAppend",
+                        "type": "byte"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "21438476",
+        "functions": [
+            {
+                "function_name": "readCharFromStdInput",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "processChar",
+                "parameters": [
+                    {
+                        "name": "c",
+                        "type": "char"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "573468",
+        "functions": [
+            {
+                "function_name": "connectToSecureWebsite",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "10008565",
+        "functions": []
+    },
+    {
+        "answer_id": "2592258",
+        "functions": [
+            {
+                "function_name": "improveLookAndFeel",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "28728429",
+        "functions": [
+            {
+                "function_name": "splitPattern",
+                "parameters": [
+                    {
+                        "name": "patternString",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "23551020",
+        "functions": [
+            {
+                "function_name": "breakWhileLoop",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "9108806",
+        "functions": [
+            {
+                "function_name": "removeLeadingAndTrailingWhitespace",
+                "parameters": [
+                    {
+                        "name": "s",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4546274",
+        "functions": [
+            {
+                "function_name": "fireTabKeyEvent",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2015524",
+        "functions": [
+            {
+                "function_name": "getCurrentHeapSize",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "36538609",
+        "functions": []
+    },
+    {
+        "answer_id": "32362085",
+        "functions": [
+            {
+                "function_name": "isTimeInString",
+                "parameters": [
+                    {
+                        "name": "string",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4286828",
+        "functions": [
+            {
+                "function_name": "hidePanel",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "actionPerformed",
+                "parameters": [
+                    {
+                        "name": "e",
+                        "type": "ActionEvent"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4120268",
+        "functions": [
+            {
+                "function_name": "getMapOfMaps",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5483341",
+        "functions": [
+            {
+                "function_name": "convertHashMapToList",
+                "parameters": [
+                    {
+                        "name": "HashMap<Integer",
+                        "type": ""
+                    },
+                    {
+                        "name": "map",
+                        "type": "String>"
+                    }
+                ],
+                "return_type": "List<String>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "21625811",
+        "functions": [
+            {
+                "function_name": "removeDuplicateValues",
+                "parameters": [
+                    {
+                        "name": "HashMap<Integer",
+                        "type": ""
+                    },
+                    {
+                        "name": "hm",
+                        "type": "String>"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5287561",
+        "functions": [
+            {
+                "function_name": "getUserInput",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5922046",
+        "functions": [
+            {
+                "function_name": "setExpirationDate",
+                "parameters": [
+                    {
+                        "name": "lastSignupDate",
+                        "type": "Date"
+                    }
+                ],
+                "return_type": "Date",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "27096697",
+        "functions": [
+            {
+                "function_name": "sumDigits",
+                "parameters": [
+                    {
+                        "name": "num",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "17329022",
+        "functions": [
+            {
+                "function_name": "subtractHoursFromCalendar",
+                "parameters": [
+                    {
+                        "name": "calendar",
+                        "type": "Calendar"
+                    },
+                    {
+                        "name": "hours",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    }
+]
