@@ -1,0 +1,4647 @@
+[
+    {
+        "answer_id": "5922046",
+        "functions": []
+    },
+    {
+        "answer_id": "8263301",
+        "functions": [
+            {
+                "function_name": "returnSeconds",
+                "parameters": [
+                    {
+                        "name": "year",
+                        "type": "int"
+                    },
+                    {
+                        "name": "month",
+                        "type": "int"
+                    },
+                    {
+                        "name": "date",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "long",
+                "description": ""
+            },
+            {
+                "function_name": "returnSeconds",
+                "parameters": [
+                    {
+                        "name": "year",
+                        "type": "int"
+                    },
+                    {
+                        "name": "month",
+                        "type": "int"
+                    },
+                    {
+                        "name": "date",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "long",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "17939617",
+        "functions": []
+    },
+    {
+        "answer_id": "36513173",
+        "functions": [
+            {
+                "function_name": "writeHTML",
+                "parameters": [
+                    {
+                        "name": "fileName",
+                        "type": "String"
+                    },
+                    {
+                        "name": "totalAmt",
+                        "type": "double"
+                    },
+                    {
+                        "name": "average",
+                        "type": "double"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2899335",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "425466",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "10095840",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "35499670",
+        "functions": [
+            {
+                "function_name": "Name",
+                "parameters": [
+                    {
+                        "name": "string",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "public",
+                "description": ""
+            },
+            {
+                "function_name": "getName",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            },
+            {
+                "function_name": "compareTo",
+                "parameters": [
+                    {
+                        "name": "other",
+                        "type": "Name"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            },
+            {
+                "function_name": "if",
+                "parameters": [
+                    {
+                        "name": "0",
+                        "type": "getName().compareTo(other.getName()) >"
+                    }
+                ],
+                "return_type": "else",
+                "description": ""
+            },
+            {
+                "function_name": "if",
+                "parameters": [
+                    {
+                        "name": "getName().equals(other.getName())",
+                        "type": ""
+                    }
+                ],
+                "return_type": "else",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "getName",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            },
+            {
+                "function_name": "compareTo",
+                "parameters": [
+                    {
+                        "name": "other",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            },
+            {
+                "function_name": "if",
+                "parameters": [
+                    {
+                        "name": "0",
+                        "type": "getName().compareTo(other.getName()) >"
+                    }
+                ],
+                "return_type": "else",
+                "description": ""
+            },
+            {
+                "function_name": "if",
+                "parameters": [
+                    {
+                        "name": "getName().equals(other.getName())",
+                        "type": ""
+                    }
+                ],
+                "return_type": "else",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "Name",
+                "parameters": [
+                    {
+                        "name": "string",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "public",
+                "description": ""
+            },
+            {
+                "function_name": "getName",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            },
+            {
+                "function_name": "compareTo",
+                "parameters": [
+                    {
+                        "name": "other",
+                        "type": "Name"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "790224",
+        "functions": []
+    },
+    {
+        "answer_id": "10922519",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "25166264",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "18607545",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "BufferedReader",
+                "parameters": [
+                    {
+                        "name": "FileReader(file))",
+                        "type": "new"
+                    }
+                ],
+                "return_type": "new",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "40910835",
+        "functions": [
+            {
+                "function_name": "extractValue",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4120268",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "33261057",
+        "functions": [
+            {
+                "function_name": "escapeDoubleQuotes",
+                "parameters": [
+                    {
+                        "name": "text",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "8963444",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "269538",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "473309",
+        "functions": [
+            {
+                "function_name": "padIntWithZeros",
+                "parameters": [
+                    {
+                        "name": "number",
+                        "type": "int"
+                    },
+                    {
+                        "name": "length",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "6341414",
+        "functions": [
+            {
+                "function_name": "isRegex",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4083850",
+        "functions": []
+    },
+    {
+        "answer_id": "6563306",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "23551020",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "18471715",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "addEscapeCharacters",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "16891978",
+        "functions": [
+            {
+                "function_name": "setResponseHeaderTlocrtPDF",
+                "parameters": [
+                    {
+                        "name": "response",
+                        "type": "HttpServletResponse"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "exportTlocrt",
+                "parameters": [
+                    {
+                        "name": "model",
+                        "type": "Model"
+                    },
+                    {
+                        "name": "response",
+                        "type": "HttpServletResponse"
+                    },
+                    {
+                        "name": "request",
+                        "type": "HttpServletRequest"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4916023",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "203992",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5055036",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "36110491",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "addToSearchString",
+                "parameters": [
+                    {
+                        "name": "add",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "printName",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "9962492",
+        "functions": [
+            {
+                "function_name": "getMax",
+                "parameters": [
+                    {
+                        "name": "t",
+                        "type": "int[]"
+                    },
+                    {
+                        "name": "n",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "32362085",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "8184129",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "run",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "3035893",
+        "functions": []
+    },
+    {
+        "answer_id": "12460596",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2228469",
+        "functions": []
+    },
+    {
+        "answer_id": "17865740",
+        "functions": [
+            {
+                "function_name": "Level1",
+                "parameters": [],
+                "return_type": "public",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "JPanel",
+                "parameters": [],
+                "return_type": "new",
+                "description": ""
+            },
+            {
+                "function_name": "paintComponent",
+                "parameters": [
+                    {
+                        "name": "g",
+                        "type": "Graphics"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "buildFrame",
+                "parameters": [],
+                "return_type": "JFrame",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "29001780",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "final String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "isNumber",
+                "parameters": [
+                    {
+                        "name": "s",
+                        "type": "final String"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "18119273",
+        "functions": []
+    },
+    {
+        "answer_id": "9276720",
+        "functions": [
+            {
+                "function_name": "splitByNumber",
+                "parameters": [
+                    {
+                        "name": "text",
+                        "type": "String"
+                    },
+                    {
+                        "name": "number",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "List<String>",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "3871163",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "16247861",
+        "functions": [
+            {
+                "function_name": "Item",
+                "parameters": [],
+                "return_type": "public",
+                "description": ""
+            },
+            {
+                "function_name": "Item",
+                "parameters": [
+                    {
+                        "name": "n",
+                        "type": "String"
+                    },
+                    {
+                        "name": "p",
+                        "type": "double"
+                    }
+                ],
+                "return_type": "public",
+                "description": ""
+            },
+            {
+                "function_name": "setName",
+                "parameters": [
+                    {
+                        "name": "n",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "setPrice",
+                "parameters": [
+                    {
+                        "name": "p",
+                        "type": "double"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "getName",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            },
+            {
+                "function_name": "getPrice",
+                "parameters": [],
+                "return_type": "double",
+                "description": ""
+            },
+            {
+                "function_name": "Node",
+                "parameters": [
+                    {
+                        "name": "d",
+                        "type": "Item"
+                    }
+                ],
+                "return_type": "public",
+                "description": ""
+            },
+            {
+                "function_name": "Node",
+                "parameters": [
+                    {
+                        "name": "d",
+                        "type": "Item"
+                    },
+                    {
+                        "name": "n",
+                        "type": "Node"
+                    }
+                ],
+                "return_type": "public",
+                "description": ""
+            },
+            {
+                "function_name": "toString",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            },
+            {
+                "function_name": "ListItems",
+                "parameters": [],
+                "return_type": "public",
+                "description": ""
+            },
+            {
+                "function_name": "isEmpty",
+                "parameters": [],
+                "return_type": "boolean",
+                "description": ""
+            },
+            {
+                "function_name": "addAnItems",
+                "parameters": [
+                    {
+                        "name": "d",
+                        "type": "Item"
+                    },
+                    {
+                        "name": "i",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "displayList",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "String[]args",
+                        "type": ""
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "6579976",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "7427797",
+        "functions": [
+            {
+                "function_name": "for",
+                "parameters": [
+                    {
+                        "name": "Map.Entry<Integer",
+                        "type": ""
+                    },
+                    {
+                        "name": "map.entrySet()",
+                        "type": "String> entry :"
+                    }
+                ],
+                "return_type": "them",
+                "description": ""
+            },
+            {
+                "function_name": "for",
+                "parameters": [
+                    {
+                        "name": "Map.Entry<Integer",
+                        "type": ""
+                    },
+                    {
+                        "name": "map.entrySet()",
+                        "type": "String> entry :"
+                    }
+                ],
+                "return_type": "them",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "26904043",
+        "functions": []
+    },
+    {
+        "answer_id": "16516670",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "13433126",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "24182811",
+        "functions": []
+    },
+    {
+        "answer_id": "6646535",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "16817458",
+        "functions": []
+    },
+    {
+        "answer_id": "26019206",
+        "functions": [
+            {
+                "function_name": "getFileName",
+                "parameters": [
+                    {
+                        "name": "filePath",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2605884",
+        "functions": [
+            {
+                "function_name": "writeToNamedPipe",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2538803",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "16475547",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "49014692",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "12381788",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "17691245",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4065546",
+        "functions": [
+            {
+                "function_name": "getCallerFunctionName",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1655450",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "getDateFiveSecondsFromNow",
+                "parameters": [],
+                "return_type": "Date",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "457272",
+        "functions": []
+    },
+    {
+        "answer_id": "3388104",
+        "functions": [
+            {
+                "function_name": "generateUUID",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2109186",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "7320393",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "testForBlankLine",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "47210710",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "if",
+                "parameters": [
+                    {
+                        "name": "0",
+                        "type": "z <"
+                    }
+                ],
+                "return_type": "else",
+                "description": ""
+            },
+            {
+                "function_name": "if",
+                "parameters": [
+                    {
+                        "name": "in.hasNextDouble()",
+                        "type": ""
+                    }
+                ],
+                "return_type": "else",
+                "description": ""
+            },
+            {
+                "function_name": "if",
+                "parameters": [
+                    {
+                        "name": "0",
+                        "type": "x <"
+                    }
+                ],
+                "return_type": "else",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "8890335",
+        "functions": [
+            {
+                "function_name": "toHex",
+                "parameters": [
+                    {
+                        "name": "buf",
+                        "type": "byte []"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5483341",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "8192887",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "15977262",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "35618510",
+        "functions": [
+            {
+                "function_name": "ShoppingBag",
+                "parameters": [
+                    {
+                        "name": "taxRate",
+                        "type": "float"
+                    }
+                ],
+                "return_type": "public",
+                "description": ""
+            },
+            {
+                "function_name": "place",
+                "parameters": [
+                    {
+                        "name": "numItems",
+                        "type": "int"
+                    },
+                    {
+                        "name": "theCost",
+                        "type": "float"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "getItems",
+                "parameters": [],
+                "return_type": "int",
+                "description": ""
+            },
+            {
+                "function_name": "getRetailCost",
+                "parameters": [],
+                "return_type": "float",
+                "description": ""
+            },
+            {
+                "function_name": "getTotalCost",
+                "parameters": [],
+                "return_type": "float",
+                "description": ""
+            },
+            {
+                "function_name": "toString",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "toString",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5756784",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "12772008",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "7577573",
+        "functions": [
+            {
+                "function_name": "replaceName",
+                "parameters": [
+                    {
+                        "name": "message",
+                        "type": "String"
+                    },
+                    {
+                        "name": "name",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "7506812",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "FileWriter",
+                "parameters": [
+                    {
+                        "name": "\"output.txt\")",
+                        "type": ""
+                    }
+                ],
+                "return_type": "new",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5287561",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "9108806",
+        "functions": [
+            {
+                "function_name": "removeLeadingAndTrailingWhitespace",
+                "parameters": [
+                    {
+                        "name": "s",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "13370154",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "readFileCharByChar",
+                "parameters": [
+                    {
+                        "name": "fileName",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "18828505",
+        "functions": [
+            {
+                "function_name": "onClick",
+                "parameters": [
+                    {
+                        "name": "arg0",
+                        "type": "View"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "14168238",
+        "functions": []
+    },
+    {
+        "answer_id": "47970130",
+        "functions": [
+            {
+                "function_name": "filterSecretKeyOutOfCommandLineLogString",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "final String[]"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            },
+            {
+                "function_name": "joinArgsToString",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "final String[]"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5223857",
+        "functions": [
+            {
+                "function_name": "countOccurrences",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4286828",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "actionPerformed",
+                "parameters": [
+                    {
+                        "name": "e",
+                        "type": "ActionEvent"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "actionPerformed",
+                "parameters": [
+                    {
+                        "name": "e",
+                        "type": "ActionEvent"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "16361505",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "getOpenFileCount",
+                "parameters": [],
+                "return_type": "int",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2800839",
+        "functions": []
+    },
+    {
+        "answer_id": "2707431",
+        "functions": []
+    },
+    {
+        "answer_id": "40293024",
+        "functions": []
+    },
+    {
+        "answer_id": "1473198",
+        "functions": [
+            {
+                "function_name": "getWordsBetweenQuotes",
+                "parameters": [
+                    {
+                        "name": "line",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "List<String>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "7190525",
+        "functions": [
+            {
+                "function_name": "readStringBuilderLineByLine",
+                "parameters": [
+                    {
+                        "name": "sb",
+                        "type": "StringBuilder"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "10008565",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "9464552",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "460590",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "FileWriter",
+                "parameters": [
+                    {
+                        "name": "jnlpFile)",
+                        "type": ""
+                    }
+                ],
+                "return_type": "new",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "7478238",
+        "functions": []
+    },
+    {
+        "answer_id": "2361108",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "50277971",
+        "functions": [
+            {
+                "function_name": "toString",
+                "parameters": [
+                    {
+                        "name": "input",
+                        "type": "ZonedDateTime"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            },
+            {
+                "function_name": "getDateTimeFormatter",
+                "parameters": [
+                    {
+                        "name": "dateStyle",
+                        "type": "FormatStyle"
+                    },
+                    {
+                        "name": "timeStyle",
+                        "type": "FormatStyle"
+                    }
+                ],
+                "return_type": "DateTimeFormatter",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "25834021",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "for",
+                "parameters": [
+                    {
+                        "name": "i=0;i<studentNumbers;i++",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "else",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2071743",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "argv[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "argv[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2623292",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "25321015",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "launchChrome",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "18708275",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "9334357",
+        "functions": [
+            {
+                "function_name": "listCipherAlgorithms",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "15150223",
+        "functions": [
+            {
+                "function_name": "checkString",
+                "parameters": [
+                    {
+                        "name": "s",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "17213258",
+        "functions": []
+    },
+    {
+        "answer_id": "2015524",
+        "functions": [
+            {
+                "function_name": "printHeapInfo",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5652385",
+        "functions": [
+            {
+                "function_name": "registerCustomFont",
+                "parameters": [
+                    {
+                        "name": "fontFilePath",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1410961",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "run",
+                "parameters": [],
+                "return_type": "Void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5153956",
+        "functions": []
+    },
+    {
+        "answer_id": "6712708",
+        "functions": [
+            {
+                "function_name": "countCharFrequency",
+                "parameters": [
+                    {
+                        "name": "s",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "Map<Character, Integer>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2541618",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "run",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "13021152",
+        "functions": [
+            {
+                "function_name": "findNthFibonacci",
+                "parameters": [
+                    {
+                        "name": "n",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "24753336",
+        "functions": []
+    },
+    {
+        "answer_id": "2529114",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "compare",
+                "parameters": [
+                    {
+                        "name": "s1",
+                        "type": "String"
+                    },
+                    {
+                        "name": "s2",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "compare",
+                "parameters": [
+                    {
+                        "name": "s1",
+                        "type": "String"
+                    },
+                    {
+                        "name": "s2",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "compare",
+                "parameters": [
+                    {
+                        "name": "s1",
+                        "type": "String"
+                    },
+                    {
+                        "name": "s2",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "36538609",
+        "functions": []
+    },
+    {
+        "answer_id": "10133538",
+        "functions": [
+            {
+                "function_name": "TimerClassPanel",
+                "parameters": [],
+                "return_type": "public",
+                "description": ""
+            },
+            {
+                "function_name": "mouseClicked",
+                "parameters": [
+                    {
+                        "name": "e",
+                        "type": "MouseEvent"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "mousePressed",
+                "parameters": [
+                    {
+                        "name": "e",
+                        "type": "MouseEvent"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "mouseReleased",
+                "parameters": [
+                    {
+                        "name": "e",
+                        "type": "MouseEvent"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "mouseEntered",
+                "parameters": [
+                    {
+                        "name": "e",
+                        "type": "MouseEvent"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "mouseExited",
+                "parameters": [
+                    {
+                        "name": "e",
+                        "type": "MouseEvent"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "19279560",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "s",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "f",
+                "parameters": [
+                    {
+                        "name": "s",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "19452417",
+        "functions": [
+            {
+                "function_name": "if",
+                "parameters": [
+                    {
+                        "name": "equality.equals(\"!=\")",
+                        "type": ""
+                    }
+                ],
+                "return_type": "else",
+                "description": ""
+            },
+            {
+                "function_name": "if",
+                "parameters": [
+                    {
+                        "name": "equality.equals(\"!=\")",
+                        "type": ""
+                    }
+                ],
+                "return_type": "else",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "9156358",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "getLocalTime",
+                "parameters": [
+                    {
+                        "name": "timeZone",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "23307365",
+        "functions": [
+            {
+                "function_name": "setDateOfOrder",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "getDateOfOrder",
+                "parameters": [],
+                "return_type": "Date",
+                "description": ""
+            },
+            {
+                "function_name": "getEstimatedShippingDate",
+                "parameters": [],
+                "return_type": "Date",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5237354",
+        "functions": [
+            {
+                "function_name": "setSelectedPriorities",
+                "parameters": [
+                    {
+                        "name": "selectedPriorities",
+                        "type": "List<String>"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "getSelectedPriorities",
+                "parameters": [],
+                "return_type": "List<String>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5387398",
+        "functions": [
+            {
+                "function_name": "convertMinutesToHoursAndMinutes",
+                "parameters": [
+                    {
+                        "name": "minutes",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "11009861",
+        "functions": [
+            {
+                "function_name": "getListOfIntegers",
+                "parameters": [
+                    {
+                        "name": "number",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "List<Integer>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "6681899",
+        "functions": []
+    },
+    {
+        "answer_id": "4436173",
+        "functions": [
+            {
+                "function_name": "connect",
+                "parameters": [],
+                "return_type": "Statement",
+                "description": ""
+            },
+            {
+                "function_name": "connect",
+                "parameters": [],
+                "return_type": "Statement",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "17329022",
+        "functions": [
+            {
+                "function_name": "subtractHours",
+                "parameters": [
+                    {
+                        "name": "hours",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "12783806",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "getLastSunday",
+                "parameters": [],
+                "return_type": "Date",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4385419",
+        "functions": []
+    },
+    {
+        "answer_id": "1657925",
+        "functions": [
+            {
+                "function_name": "setKp",
+                "parameters": [
+                    {
+                        "name": "numerator",
+                        "type": "int"
+                    },
+                    {
+                        "name": "divisor",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "setKp",
+                "parameters": [
+                    {
+                        "name": "numerator",
+                        "type": "int"
+                    },
+                    {
+                        "name": "divisor",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "42159770",
+        "functions": [
+            {
+                "function_name": "URL",
+                "parameters": [
+                    {
+                        "name": "photoURL).openStream()",
+                        "type": ""
+                    }
+                ],
+                "return_type": "new",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "28333829",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "27096697",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "sumDigits",
+                "parameters": [
+                    {
+                        "name": "num",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "11243868",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "38876591",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "3806154",
+        "functions": [
+            {
+                "function_name": "readNumbersFromFile",
+                "parameters": [
+                    {
+                        "name": "fileName",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "List<Integer>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "10039728",
+        "functions": [
+            {
+                "function_name": "getListOfFiles",
+                "parameters": [
+                    {
+                        "name": "path",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "List<String>",
+                "description": ""
+            },
+            {
+                "function_name": "FileFilter",
+                "parameters": [],
+                "return_type": "new",
+                "description": ""
+            },
+            {
+                "function_name": "accept",
+                "parameters": [
+                    {
+                        "name": "pathname",
+                        "type": "File"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "9515546",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "getLastStringAfterComma",
+                "parameters": [
+                    {
+                        "name": "s",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2961537",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "getSecondWord",
+                "parameters": [
+                    {
+                        "name": "s",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "8871710",
+        "functions": []
+    },
+    {
+        "answer_id": "4662265",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "919420",
+        "functions": [
+            {
+                "function_name": "ArrayList",
+                "parameters": [],
+                "return_type": "new",
+                "description": ""
+            },
+            {
+                "function_name": "ArrayList",
+                "parameters": [],
+                "return_type": "new",
+                "description": ""
+            },
+            {
+                "function_name": "ArrayList",
+                "parameters": [],
+                "return_type": "new",
+                "description": ""
+            },
+            {
+                "function_name": "ArrayList",
+                "parameters": [],
+                "return_type": "new",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "32175072",
+        "functions": []
+    },
+    {
+        "answer_id": "20938772",
+        "functions": [
+            {
+                "function_name": "doubleChar",
+                "parameters": [
+                    {
+                        "name": "str",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "12812355",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "15694375",
+        "functions": [
+            {
+                "function_name": "Setup",
+                "parameters": [
+                    {
+                        "name": "start",
+                        "type": "Starter"
+                    },
+                    {
+                        "name": "window",
+                        "type": "JFrame"
+                    }
+                ],
+                "return_type": "public",
+                "description": ""
+            },
+            {
+                "function_name": "run",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "Setup",
+                "parameters": [
+                    {
+                        "name": "start",
+                        "type": "Starter"
+                    },
+                    {
+                        "name": "window",
+                        "type": "JFrame"
+                    }
+                ],
+                "return_type": "public",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "7438009",
+        "functions": [
+            {
+                "function_name": "binaryToDecimal",
+                "parameters": [
+                    {
+                        "name": "binary",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "19537440",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4078601",
+        "functions": [
+            {
+                "function_name": "for",
+                "parameters": [
+                    {
+                        "name": "Map.Entry<String",
+                        "type": ""
+                    },
+                    {
+                        "name": "map.entrySet()",
+                        "type": "String> entry :"
+                    }
+                ],
+                "return_type": "changes",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1693326",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "actionPerformed",
+                "parameters": [
+                    {
+                        "name": "e",
+                        "type": "ActionEvent"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "actionPerformed",
+                "parameters": [
+                    {
+                        "name": "e",
+                        "type": "ActionEvent"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "mousePressed",
+                "parameters": [
+                    {
+                        "name": "e",
+                        "type": "MouseEvent"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1073933",
+        "functions": [
+            {
+                "function_name": "convertIntArrayToList",
+                "parameters": [
+                    {
+                        "name": "intArray",
+                        "type": "int[]"
+                    }
+                ],
+                "return_type": "List<Integer>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "10768198",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2318759",
+        "functions": [
+            {
+                "function_name": "isProcessRunning",
+                "parameters": [
+                    {
+                        "name": "processName",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4141352",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "byteArrayToString",
+                "parameters": [
+                    {
+                        "name": "byteArray",
+                        "type": "byte[]"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "22195142",
+        "functions": [
+            {
+                "function_name": "getTomorrowsDate",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "19238077",
+        "functions": [
+            {
+                "function_name": "charArrayToString",
+                "parameters": [
+                    {
+                        "name": "c",
+                        "type": "char[]"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "3799176",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2297629",
+        "functions": [
+            {
+                "function_name": "calculateAnswer",
+                "parameters": [
+                    {
+                        "name": "a",
+                        "type": "String"
+                    },
+                    {
+                        "name": "b",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "calculateAnswer",
+                "parameters": [
+                    {
+                        "name": "a",
+                        "type": "String"
+                    },
+                    {
+                        "name": "b",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "int",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "36568643",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "createSequence",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1711820",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "31807319",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "8646467",
+        "functions": []
+    },
+    {
+        "answer_id": "2490486",
+        "functions": [
+            {
+                "function_name": "Tower",
+                "parameters": [],
+                "return_type": "public",
+                "description": ""
+            },
+            {
+                "function_name": "add",
+                "parameters": [
+                    {
+                        "name": "k1",
+                        "type": "Block"
+                    }
+                ],
+                "return_type": "Tower",
+                "description": ""
+            },
+            {
+                "function_name": "delete",
+                "parameters": [
+                    {
+                        "name": "k1",
+                        "type": "Block"
+                    }
+                ],
+                "return_type": "Tower",
+                "description": ""
+            },
+            {
+                "function_name": "add",
+                "parameters": [
+                    {
+                        "name": "block",
+                        "type": "Block"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            },
+            {
+                "function_name": "remove",
+                "parameters": [
+                    {
+                        "name": "block",
+                        "type": "Block"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            },
+            {
+                "function_name": "contains",
+                "parameters": [
+                    {
+                        "name": "block",
+                        "type": "Block"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5163852",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "getLastChar",
+                "parameters": [
+                    {
+                        "name": "s",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "char",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5290628",
+        "functions": [
+            {
+                "function_name": "getFirstFourDigits",
+                "parameters": [
+                    {
+                        "name": "str",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "12899896",
+        "functions": []
+    },
+    {
+        "answer_id": "5950446",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "27372799",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "27287021",
+        "functions": []
+    },
+    {
+        "answer_id": "28728429",
+        "functions": [
+            {
+                "function_name": "splitPattern",
+                "parameters": [
+                    {
+                        "name": "pattern",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "List<String>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2592258",
+        "functions": [
+            {
+                "function_name": "setDefaultLookAndFeel",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "6596139",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "isAlphanumeric",
+                "parameters": [
+                    {
+                        "name": "s",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1612912",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "argv",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "argv",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "12030",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "findGateway",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "745451",
+        "functions": [
+            {
+                "function_name": "getPreviousDate",
+                "parameters": [
+                    {
+                        "name": "myDate",
+                        "type": "Date"
+                    }
+                ],
+                "return_type": "Date",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "21438476",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "processChar",
+                "parameters": [
+                    {
+                        "name": "c",
+                        "type": "char"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "processChar",
+                "parameters": [
+                    {
+                        "name": "c",
+                        "type": "char"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "processChar",
+                "parameters": [
+                    {
+                        "name": "c",
+                        "type": "char"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4499595",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5165471",
+        "functions": [
+            {
+                "function_name": "setTimeToDate",
+                "parameters": [
+                    {
+                        "name": "hourOfDay",
+                        "type": "int"
+                    },
+                    {
+                        "name": "minute",
+                        "type": "int"
+                    },
+                    {
+                        "name": "second",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "Date",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "931663",
+        "functions": [
+            {
+                "function_name": "launch",
+                "parameters": [
+                    {
+                        "name": "cmd",
+                        "type": "String"
+                    },
+                    {
+                        "name": "fil",
+                        "type": "File"
+                    },
+                    {
+                        "name": "lin",
+                        "type": "int"
+                    },
+                    {
+                        "name": "col",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "Throwable",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2367418",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "extractNumbers",
+                "parameters": [
+                    {
+                        "name": "line",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "573468",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4157429",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "executeCommand",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "6638330",
+        "functions": []
+    },
+    {
+        "answer_id": "19534456",
+        "functions": []
+    },
+    {
+        "answer_id": "15196438",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "9464309",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "18871400",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String []"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "Gifpaneel",
+                "parameters": [],
+                "return_type": "public",
+                "description": ""
+            },
+            {
+                "function_name": "paintComponent",
+                "parameters": [
+                    {
+                        "name": "g",
+                        "type": "Graphics"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "7226186",
+        "functions": [
+            {
+                "function_name": "getDayOfMonth",
+                "parameters": [],
+                "return_type": "int",
+                "description": ""
+            },
+            {
+                "function_name": "getDayOfMonthAsString",
+                "parameters": [],
+                "return_type": "String",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "17759946",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "checkCast",
+                "parameters": [
+                    {
+                        "name": "obj",
+                        "type": "Object"
+                    },
+                    {
+                        "name": "clazz",
+                        "type": "Class<?>"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "2244077",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1509487",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "8182674",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "run",
+                "parameters": [],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "15518922",
+        "functions": [
+            {
+                "function_name": "isValidURL",
+                "parameters": [
+                    {
+                        "name": "url",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "boolean",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "16764615",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "21625811",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "36652931",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "3028429",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "1988273",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args[]",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "5287521",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "7063917",
+        "functions": []
+    },
+    {
+        "answer_id": "19751994",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "extractTags",
+                "parameters": [
+                    {
+                        "name": "line",
+                        "type": "String"
+                    }
+                ],
+                "return_type": "List<String>",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "26136178",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "4546274",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "19066796",
+        "functions": [
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            },
+            {
+                "function_name": "main",
+                "parameters": [
+                    {
+                        "name": "args",
+                        "type": "String[]"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "10990974",
+        "functions": [
+            {
+                "function_name": "wrapString",
+                "parameters": [
+                    {
+                        "name": "str",
+                        "type": "String"
+                    },
+                    {
+                        "name": "length",
+                        "type": "int"
+                    }
+                ],
+                "return_type": "String",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "18070669",
+        "functions": [
+            {
+                "function_name": "actionPerformed",
+                "parameters": [
+                    {
+                        "name": "event",
+                        "type": "ActionEvent"
+                    }
+                ],
+                "return_type": "void",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "answer_id": "19336268",
+        "functions": [
+            {
+                "function_name": "for",
+                "parameters": [
+                    {
+                        "name": "i++",
+                        "type": "int i = 1; i <101;"
+                    }
+                ],
+                "return_type": "tried",
+                "description": ""
+            }
+        ]
+    }
+]
